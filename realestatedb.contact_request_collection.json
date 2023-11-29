@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "653a0cbf3ae0ce2920b5d4e5"
+  },
+  "name": "John Doe",
+  "email": "john@example.com",
+  "message": "I'm interested in the beachfront villa in Spain. Please provide more details."
+},
+{
+  "_id": {
+    "$oid": "653a0cbf3ae0ce2920b5d4e6"
+  },
+  "name": "Alice Smith",
+  "email": "alice@example.com",
+  "message": "I'd like to schedule a viewing of the mountain cabin in Switzerland."
+},
+{
+  "_id": {
+    "$oid": "653a0cbf3ae0ce2920b5d4e7"
+  },
+  "name": "Bob Johnson",
+  "email": "bob@example.com",
+  "message": "Can you tell me more about the village house in France?"
+},
+{
+  "_id": {
+    "$oid": "653a0cbf3ae0ce2920b5d4e8"
+  },
+  "name": "Sarah Brown",
+  "email": "sarah@example.com",
+  "message": "I'm considering the luxury condo in Thailand. What's the financing options?"
+},
+{
+  "_id": {
+    "$oid": "653a0cbf3ae0ce2920b5d4e9"
+  },
+  "name": "Michael Wilson",
+  "email": "michael@example.com",
+  "message": "Tell me about the safari lodge in South Africa. Is it near a national park?"
+},
+{
+  "_id": {
+    "$oid": "653a0cbf3ae0ce2920b5d4ea"
+  },
+  "name": "Emma Davis",
+  "email": "emma@example.com",
+  "message": "I'm interested in the seaside cottage in Greece. Can you provide the price history?"
+},
+{
+  "_id": {
+    "$oid": "653a0cbf3ae0ce2920b5d4eb"
+  },
+  "name": "James White",
+  "email": "james@example.com",
+  "message": "Can you arrange a tour of the alpine chalet in Austria?"
+},
+{
+  "_id": {
+    "$oid": "653a0cbf3ae0ce2920b5d4ec"
+  },
+  "name": "Olivia Miller",
+  "email": "olivia@example.com",
+  "message": "What's the history of the historic villa in Italy? Any famous residents?"
+},
+{
+  "_id": {
+    "$oid": "653a0cbf3ae0ce2920b5d4ed"
+  },
+  "name": "William Anderson",
+  "email": "william@example.com",
+  "message": "Tell me more about the modern apartment in Japan. Are there nearby schools?"
+},
+{
+  "_id": {
+    "$oid": "653a0cbf3ae0ce2920b5d4ee"
+  },
+  "name": "Sophia Garcia",
+  "email": "sophia@example.com",
+  "message": "I'd like to visit the savannah ranch in Kenya. When is it available?"
+}]

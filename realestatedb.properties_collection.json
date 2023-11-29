@@ -1,0 +1,110 @@
+[{
+  "_id": {
+    "$oid": "653a0d0f3ae0ce2920b5d4f4"
+  },
+  "title": "Beachfront Villa in Spain",
+  "type": "beach",
+  "location": "Europe",
+  "price": 1000000,
+  "sqmeters": 300,
+  "beds": 4
+},
+{
+  "_id": {
+    "$oid": "653a0d0f3ae0ce2920b5d4f5"
+  },
+  "title": "Mountain Cabin in Switzerland",
+  "type": "mountain",
+  "location": "Europe",
+  "price": 800000,
+  "sqmeters": 200,
+  "beds": 3
+},
+{
+  "_id": {
+    "$oid": "653a0d0f3ae0ce2920b5d4f6"
+  },
+  "title": "Village House in France",
+  "type": "village",
+  "location": "Europe",
+  "price": 600000,
+  "sqmeters": 150,
+  "beds": 2
+},
+{
+  "_id": {
+    "$oid": "653a0d0f3ae0ce2920b5d4f7"
+  },
+  "title": "Luxury Condo in Thailand",
+  "type": "beach",
+  "location": "Asia",
+  "price": 1200000,
+  "sqmeters": 250,
+  "beds": 3
+},
+{
+  "_id": {
+    "$oid": "653a0d0f3ae0ce2920b5d4f8"
+  },
+  "title": "Safari Lodge in South Africa",
+  "type": "village",
+  "location": "Africa",
+  "price": 900000,
+  "sqmeters": 400,
+  "beds": 5
+},
+{
+  "_id": {
+    "$oid": "653a0d0f3ae0ce2920b5d4f9"
+  },
+  "title": "Seaside Cottage in Greece",
+  "type": "beach",
+  "location": "Europe",
+  "price": 850000,
+  "sqmeters": 180,
+  "beds": 3
+},
+{
+  "_id": {
+    "$oid": "653a0d0f3ae0ce2920b5d4fa"
+  },
+  "title": "Alpine Chalet in Austria",
+  "type": "mountain",
+  "location": "Europe",
+  "price": 950000,
+  "sqmeters": 220,
+  "beds": 4
+},
+{
+  "_id": {
+    "$oid": "653a0d0f3ae0ce2920b5d4fb"
+  },
+  "title": "Historic Villa in Italy",
+  "type": "village",
+  "location": "Europe",
+  "price": 750000,
+  "sqmeters": 160,
+  "beds": 3
+},
+{
+  "_id": {
+    "$oid": "653a0d0f3ae0ce2920b5d4fc"
+  },
+  "title": "Modern Apartment in Japan",
+  "type": "urban",
+  "location": "Asia",
+  "price": 1100000,
+  "sqmeters": 180,
+  "beds": 2
+},
+{
+  "_id": {
+    "$oid": "653a0d0f3ae0ce2920b5d4fd"
+  },
+  "title": "Savannah Ranch in Kenya",
+  "type": "rural",
+  "location": "Africa",
+  "price": 850000,
+  "sqmeters": 500,
+  "beds": 6
+}]
